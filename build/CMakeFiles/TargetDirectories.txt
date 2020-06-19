@@ -1,0 +1,3 @@
+/home/iglsynth-cmake/build/CMakeFiles/rebuild_cache.dir
+/home/iglsynth-cmake/build/CMakeFiles/iglsynth_cmake.dir
+/home/iglsynth-cmake/build/CMakeFiles/edit_cache.dir

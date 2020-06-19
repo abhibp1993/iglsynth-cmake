@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/iglsynth-cmake/include/Player.h
+iostream
+-
+string
+-
+
+/home/iglsynth-cmake/src/Player.cpp
+../include/Player.h
+/home/iglsynth-cmake/include/Player.h
+

@@ -1,0 +1,1 @@
+/usr/bin/c++   -Wall -fPIC -O3 -DNDEBUG -fopenmp -fmax-errors=1   CMakeFiles/iglsynth_cmake.dir/src/binding_test.cpp.o CMakeFiles/iglsynth_cmake.dir/src/Player.cpp.o  -o iglsynth_cmake 
