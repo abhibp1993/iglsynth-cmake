@@ -22,3 +22,6 @@ $ make
 $ ./iglsynth_cmake
 ```
 
+## TODO
+- Bind the Player class constructor and member functions to Python using pybind11
+- Should the bindings be maintained within ```src/binding_test.cpp``` or in a separate file??
