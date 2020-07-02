@@ -1,5 +1,4 @@
 # iglsynth-cmake
-Trying out CMake configurations
 
 ## Description
 This code implements a Two-Player game setting where:
