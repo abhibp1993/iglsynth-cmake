@@ -27,11 +27,12 @@ protected:
 public:
     Player1();
     Player1(unsigned int health, std::string name);
-    virtual ~Player1();
-    virtual void setHealth(unsigned int health);
-    virtual unsigned int getHealth();
-    virtual void setName(std::string name);
-    virtual std::string getName();
+    ~Player1();
+//    virtual ~Player1();
+    void setHealth(unsigned int health) override;
+    unsigned int getHealth() override;
+    void setName(std::string name);
+    std::string getName();
 };
 
 class Player2: public IPlayer{
